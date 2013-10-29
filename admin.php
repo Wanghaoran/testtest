@@ -6,8 +6,7 @@ define('APP_NAME', 'admin');
 define('APP_PATH', './adein/');o
 asdad
 asd
-asd
-as
+asd生生死死
 da
 s
 d
